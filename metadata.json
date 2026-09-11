@@ -1,0 +1,6 @@
+{
+  "name": "CBT Tryout",
+  "description": "Sistem Computer Based Test (CBT) Tryout untuk simulasi ujian UTBK, CPNS, dan sekolah dengan bank soal, builder paket, monitoring live, dan mode ujian interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
